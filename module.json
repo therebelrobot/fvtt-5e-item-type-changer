@@ -19,5 +19,6 @@
   "url": "https://github.com/therebelrobot/fvtt-5e-item-type-changer",
   "manifest": "https://raw.githubusercontent.com/therebelrobot/fvtt-5e-item-type-changer/master/module.json",
   "download": "https://github.com/therebelrobot/fvtt-5e-item-type-changer/archive/master.zip",
-  "minimumCoreVersion": "0.5.4"
+  "minimumCoreVersion": "0.5.4",
+  "compatibleCoreVersion": "0.5.7"
 }
