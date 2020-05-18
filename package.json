@@ -7,7 +7,8 @@
   "license": "MIT",
   "scripts": {
     "dev": "parcel src/main.tsx",
-    "build": "parcel build src/main.tsx"
+    "build": "parcel build src/main.tsx",
+    "clean": "rm -rf node_modules .cache dist"
   },
   "devDependencies": {
     "@types/jquery": "^3.3.35",
