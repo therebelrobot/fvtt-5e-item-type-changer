@@ -1,23 +1,23 @@
 {
-	"name": "fvtt-5e-combat-action-drawer",
-	"title": "Combat Actions Drawer 5e",
-	"description": "Inspire your players with an easy-to-access list of available combat actions.",
-	"version": "0.0.1",
-	"author": "therebelrobot#1280",
-	"systems": ["dnd5e"],
-	"scripts": ["/dist/main.js"],
-    "esmodules": [],
-	"styles": [],
-	"packs": [],
-    "languages": [
-        {
-          "lang": "en",
-          "name": "English",
-          "path": "lang/en.json"
-        }
-    ],
-    "url": "https://github.com/therebelrobot/fvtt-5e-combat-action-drawer",
-    "manifest": "https://raw.githubusercontent.com/therebelrobot/fvtt-5e-combat-action-drawer/master/module.json",
-    "download": "https://github.com/therebelrobot/fvtt-5e-combat-action-drawer/archive/master.zip",
-    "minimumCoreVersion": "0.5.4"
+  "name": "fvtt-5e-item-type-changer",
+  "title": "5e Item Type Changer",
+  "description": "Convert 5e system items from one type to another.",
+  "version": "0.0.1",
+  "author": "therebelrobot#1280",
+  "systems": ["dnd5e"],
+  "scripts": ["/dist/main.js"],
+  "esmodules": [],
+  "styles": [],
+  "packs": [],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+  "url": "https://github.com/therebelrobot/fvtt-5e-item-type-changer",
+  "manifest": "https://raw.githubusercontent.com/therebelrobot/fvtt-5e-item-type-changer/master/module.json",
+  "download": "https://github.com/therebelrobot/fvtt-5e-item-type-changer/archive/master.zip",
+  "minimumCoreVersion": "0.5.4"
 }
